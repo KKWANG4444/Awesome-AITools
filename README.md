@@ -7,7 +7,7 @@
     <a href="https://github.com/ikaijua/Awesome-AITools/commits"><img src="https://img.shields.io/github/last-commit/ikaijua/Awesome-AITools" alt="Last Commit"></a>
 </div>
 
-> **中国开发者接入这些 AI 工具时**，可将支持自定义接口的客户端连接到 [www.aifast.club](https://www.aifast.club) 的 OpenAI 兼容 Base URL；模型范围以控制台为准。
+> **接入这些工具：** 支持自定义 API Key 和 Base URL 的客户端，可以参考 [OpenAI 兼容配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)，或测试 [www.aifast.club](https://www.aifast.club)。
 
 English | [中文](README-CN.md)
 
