@@ -7,7 +7,7 @@
     <a href="https://github.com/ikaijua/Awesome-AITools/commits"><img src="https://img.shields.io/github/last-commit/ikaijua/Awesome-AITools" alt="Last Commit"></a>
 </div>
 
-> 🇨🇳 **国内直连 ChatGPT/Claude 等 572 个模型？** [**www.aifast.club**](https://www.aifast.club) · 一个 Key 全搞定
+> **中国开发者接入这些 AI 工具时**，可将支持自定义接口的客户端连接到 [www.aifast.club](https://www.aifast.club) 的 OpenAI 兼容 Base URL；模型范围以控制台为准。
 
 English | [中文](README-CN.md)
 
