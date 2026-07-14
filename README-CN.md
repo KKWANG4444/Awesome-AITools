@@ -7,7 +7,6 @@
     <a href="https://github.com/ikaijua/Awesome-AITools/commits"><img src="https://img.shields.io/github/last-commit/ikaijua/Awesome-AITools" alt="Last Commit"></a>
 </div>
 
-> 🇨🇳 **国内直连 ChatGPT/Claude 等 572 个模型？** [**www.aifast.club**](https://www.aifast.club) · 一个 Key 全搞定
 
 [English](README.md) | 中文
 
